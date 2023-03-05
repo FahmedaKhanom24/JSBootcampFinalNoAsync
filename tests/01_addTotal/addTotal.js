@@ -1,4 +1,5 @@
 // make sure to check readme for information about taxes
+// great job!
 function addTotal(cart, state) {
 
     const TAX_RATES = {

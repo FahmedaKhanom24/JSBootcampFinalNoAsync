@@ -1,4 +1,5 @@
 /* eslint-disable no-param-reassign */
+// really good use of regex. My solution was much longer than this. I like this solution better than mine.
 function mostVowels(string) {
   const words = string.split(' ');
   let maxVowels = 0;
